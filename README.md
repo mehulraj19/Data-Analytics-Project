@@ -9,7 +9,6 @@ Whenver we are talking about books and reading them, we have two types of custom
   <li><ins>Those who want to start reading<ins>: When we are talking about this class, these people will either going to ask their friend to refer a book or they will search online</li>
   <li><ins>Those who have the habit of reading</ins>: People of this class, has predifined priorities, like which author or book to read.</li>
 </ul>
-<br/>
 I have made the overall search network in such a way that it actuallu covers the interests of both of these customers.
 <h1>Models</h1>
 So for the overall functioning, three models have been setup:
