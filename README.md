@@ -6,10 +6,10 @@ is implemented using 'R' programming language. The dataset contains nearly about
 <h1>Working</h1>
 Whenver we are talking about books and reading them, we have two types of customers in general:
 <ul>
-  <li><ins>Those who want to start reading<ins>: When we are talking about this class, these people will either going to ask their friend to refer a book or they will search online</li>
+  <li><ins>Those who want to start reading</ins>: When we are talking about this class, these people will either going to ask their friend to refer a book or they will search online</li>
   <li><ins>Those who have the habit of reading</ins>: People of this class, has predifined priorities, like which author or book to read.</li>
 </ul>
-I have made the overall search network in such a way that it actuallu covers the interests of both of these customers.
+I have made the overall search network in such a way that it actually covers the interests of both of these customers.
 <h1>Models</h1>
 So for the overall functioning, three models have been setup:
 <ol>
@@ -36,7 +36,7 @@ So for the overall functioning, three models have been setup:
   <ul>
     <li>Name of the Book</li>
     <li>Name of the Author</li>
-    <br/> These 2 filters are generally for those people who have the habit of reading or people askign their friends to refer them a book.
+    These 2 filters are generally for those people who have the habit of reading or people askign their friends to refer them a book.
     <li>Rating of the book (generally, they chose books to have average rating > 4)</li>
     <li>Number of reviews for the Book</li>
     <li>Number of pages in the book (since, people who want to start with a book normally do not want to start with books having pages less than 200).</li>
